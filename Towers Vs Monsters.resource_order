@@ -126,7 +126,6 @@
     {"name":"spr_path_diagonal","order":2,"path":"sprites/spr_path_diagonal/spr_path_diagonal.yy",},
     {"name":"spr_button_red","order":7,"path":"sprites/spr_button_red/spr_button_red.yy",},
     {"name":"snd_death_zombie_02","order":39,"path":"sounds/snd_death_zombie_02/snd_death_zombie_02.yy",},
-    {"name":"obj_grave_2","order":5,"path":"objects/obj_grave_2/obj_grave_2.yy",},
     {"name":"spr_button_green","order":6,"path":"sprites/spr_button_green/spr_button_green.yy",},
     {"name":"obj_tower_archer","order":2,"path":"objects/obj_tower_archer/obj_tower_archer.yy",},
     {"name":"spr_tower_upgrade_wave","order":13,"path":"sprites/spr_tower_upgrade_wave/spr_tower_upgrade_wave.yy",},
