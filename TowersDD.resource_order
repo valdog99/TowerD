@@ -1,10 +1,10 @@
 {
   "FolderOrderSettings": [
-    {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
-    {"name":"Timelines","order":2,"path":"folders/Timelines.yy",},
     {"name":"Animation Curves","order":3,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":4,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":5,"path":"folders/Particle Systems.yy",},
+    {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
+    {"name":"Timelines","order":2,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"snd_frankenstein_death_01","order":35,"path":"sounds/snd_frankenstein_death_01/snd_frankenstein_death_01.yy",},
