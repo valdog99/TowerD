@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "spr_path_individual_3",
   "bbox_bottom": 75,
-  "bbox_left": 0,
-  "bbox_right": 109,
+  "bbox_left": 34,
+  "bbox_right": 110,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 110,
+  "width": 111,
 }
